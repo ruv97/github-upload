@@ -1,0 +1,26 @@
+
+body{ background-image: url("img/hand-drawn-vegetables-veggies-nutrition-doodle-organic-vegan-food-vegetable-doodles-illustration-set_102902-1404.jpg"); margin:0; padding:0}
+.main{ background: #387c6d; width:1000px; height: 100%; margin:0 auto;}
+.hdr{ background: #ff7171; height: 100px;}
+.cnt{ height: 500px;}
+.ftr{ background: #ff7171; height: 50px;}
+.box1{height: 150px; width: 150px; background-image:url("img/40896487-farmer-doodle.jpg"); float: left;position:relative; top: 200px; left: 150px;box-shadow: #031101;}
+.box2{height: 150px; width: 150px; background-image:url("img/122476468-doodle-illustration-of-gifts-presents-and-cute-packaging-.jpg");float: left;left: 150px;position: relative;top: 150px;}
+.box3{height: 150px; width: 150px; background-image:url("img/distributor-2170624-1820716.png") ; float: left; position: relative; top: 200px;left: 150px;}
+.box4{height: 150px; width: 150px; background-image: url("img/retailer1.png"); float: left;left: 150px;position: relative; top: 150px;}
+.box5{height: 150px; width: 150px; background-image: url("img/gettyimages-1250060419-1024x1024.jpg"); float: left;position: relative; top: 200px;left: 150px;}
+#txt_inbox{position: relative; text-align:center; top:30px; color:#343f56;}
+#txt_header{text-align: center; color: #c8c6a7; position: relative; top: 30px;}
+#txt_ftr{text-align: center; color: #c8c6a7}
+#txt_inbox
+{
+    position: relative; 
+    text-align:center; 
+    top:30px; 
+    color:#343f56;
+}
+
+#txt_inbox:hover
+{
+    background-color:aliceblue;
+    opacity:}
